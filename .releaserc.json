@@ -12,6 +12,6 @@
     "@semantic-release/git"
   ],
   "publish": ["@semantic-release/github"],
-  "repositoryUrl": "https://github.com/sarkistlt/feathers-redis-cache.git",
+  "repositoryUrl": "git@github.com:andrekutianski/feathers-redis-cache.git",
   "noCi": true
 }
