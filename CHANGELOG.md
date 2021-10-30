@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/andrekutianski/feathers-redis-cache/compare/v1.0.13...v1.0.14) (2021-10-30)
+
+
+### Bug Fixes
+
+* **securoty dependencies:** security dependencies update ([4cfa924](https://github.com/andrekutianski/feathers-redis-cache/commit/4cfa9243b7e854bbd3c71a06cb76da8335ee8c25))
+
 ## [1.0.13](https://github.com/andrekutianski/feathers-redis-cache/compare/v1.0.12...v1.0.13) (2021-10-30)
 
 
