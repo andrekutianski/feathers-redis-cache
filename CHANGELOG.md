@@ -1,3 +1,16 @@
+## [1.0.13](https://github.com/andrekutianski/feathers-redis-cache/compare/v1.0.12...v1.0.13) (2021-10-30)
+
+
+### Bug Fixes
+
+* **cache key fix:** fix for issue [#4](https://github.com/andrekutianski/feathers-redis-cache/issues/4), when stringifying nested array ([0fd49cb](https://github.com/andrekutianski/feathers-redis-cache/commit/0fd49cb5d3b768cc614dc04c1868042ed9be3c2c))
+* **hooks:** fix return of ctx from purge hook ([1e56075](https://github.com/andrekutianski/feathers-redis-cache/commit/1e5607569cf1a11b38def933f5d692b270a05500))
+* **hooks:** minor fixes ([d30b7f6](https://github.com/andrekutianski/feathers-redis-cache/commit/d30b7f65dac92ed894c70bf6593da23697392501))
+* **hooks:** typo fixes ([0206e03](https://github.com/andrekutianski/feathers-redis-cache/commit/0206e03ad8cd975daa19e4005d19e1cbe71bdbbc))
+* **hooks + services:** fix for purge hook, and purge group endpoint ([6830288](https://github.com/andrekutianski/feathers-redis-cache/commit/683028857833214a241d1a98a60c34271c427362))
+* **logger:** disable by default ([b476c91](https://github.com/andrekutianski/feathers-redis-cache/commit/b476c91e8a063712f43bb6a3fa3a7ad4e2f37388))
+* **logger:** log connect/disconnect info ([a2027b8](https://github.com/andrekutianski/feathers-redis-cache/commit/a2027b854122ee53e6167a4e01580e56de26c3b8))
+
 ## [1.0.12](https://github.com/sarkistlt/feathers-redis-cache/compare/v1.0.11...v1.0.12) (2019-05-03)
 
 
